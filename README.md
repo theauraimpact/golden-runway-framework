@@ -40,7 +40,7 @@ We are currently in active discussions with small, medium, and large organizatio
 * **Implementation Support:** We provide hands-on guidance to help your HR and Legal teams adapt these templates.
 * **Leadership Status:** Be recognized as a pioneer in ethical offboarding and employee psychological safety.
 
-Interested in piloting this? Please email **theauraimpact@gmail.com**.
+Interested in piloting this? Please email **[theauraimpact@gmail.com](mailto:theauraimpact@gmail.com)**.
 
 ---
 
@@ -58,7 +58,7 @@ The framework recommends funding via a **Voluntary Employees' Beneficiary Associ
 > The Golden Runway framework is designed to scale across borders. While the specific funding vehicle changes by jurisdiction, the core promise (pre-funded security) remains constant.
 >
 > While "VEBA" is a specific US tax term, **Model A (Trust-Based Funding)** is a globally valid strategy.
-> *For details on adapting this framework outside the US, please email theauraimpact@gmail.com.*
+> *For details on adapting this framework outside the US, please email [theauraimpact@gmail.com](mailto:theauraimpact@gmail.com).*
 
 ### 3. The "Contribution Holiday"
 The plan aligns incentives. If retention is high and the Trust becomes overfunded (e.g., >125%), the Company gets a "premium holiday," effectively rewarding the organization for keeping its people.
@@ -67,17 +67,17 @@ The plan aligns incentives. If retention is high and the Trust becomes overfunde
 
 ## 🛠️ How to Use (Implementation)
 
-1.  **Fork or Download:** Clone this repository to review the drafts.
-2.  **Select Your Model:** Use the *Decision Matrix* in the **[Implementation Guide](./pdf/Implementation_Guide_503.pdf)** to choose between Model A (VEBA), Model B (General Assets), or Model C (Fully Insured).
-3.  **Customize:** Edit the `[Bracketed Text]` in the SPD to match your Company Name and specific jurisdiction.
-4.  **Consult Counsel:** **CRITICAL.** These documents are templates. You must have them reviewed by ERISA counsel or a qualified Benefits Attorney before adoption.
+1. **Fork or Download:** Clone this repository to review the drafts.
+2. **Select Your Model:** Use the *Decision Matrix* in the **[Implementation Guide](./pdf/Implementation_Guide_503.pdf)** to choose between Model A (VEBA), Model B (General Assets), or Model C (Fully Insured).
+3. **Customize:** Edit the `[Bracketed Text]` in the SPD to match your Company Name and specific jurisdiction.
+4. **Consult Counsel:** **CRITICAL.** These documents are templates. You must have them reviewed by ERISA counsel or a qualified Benefits Attorney before adoption.
 
 ---
 
 ## 🤝 Contributing
 We believe the best standards are built collectively.
-* **Found a loophole?** Email **theauraimpact@gmail.com**
-* **Have a better definition for "Gross Misconduct"?** Email **theauraimpact@gmail.com**
+* **Found a loophole?** Email **[theauraimpact@gmail.com](mailto:theauraimpact@gmail.com)**
+* **Have a better definition for "Gross Misconduct"?** Email **[theauraimpact@gmail.com](mailto:theauraimpact@gmail.com)**
 * **Want to discuss?** Join the conversation on our social channels.
 
 ## 🌐 Connect & Learn
