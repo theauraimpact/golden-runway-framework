@@ -17,8 +17,22 @@ This repository contains the legal, financial, and administrative templates requ
 
 | Document | Description | Target Audience |
 | :--- | :--- | :--- |
+| **[`DRAFT SPD - The Golden Runway Benefit Plan (#501)`](./pdf/DRAFT SPD - The Golden Runway Benefit Plan (#501).pdf)** | **Summary Plan Description (SPD)**: The core "contract" detailing the benefit, eligibility, and "Gross Misconduct" protections. | Employees, Legal |
+| **[`DRAFT Golden Runway Implementation Guide (#503)`](./pdf/DRAFT Golden Runway Implementation Guide (#503).pdf)** | **Implementation Guide**: A guide to funding models (VEBA Trust, Captive, etc.), tax implications, and the decision matrix. | CFOs, HR Leaders |
+| **[`DRAFT FAQ - Golden Runway Employee Guide (#502)`](./pdf/DRAFT FAQ - Golden Runway Employee Guide (#502).pdf)** | **FAQ (The "Translation Layer")**: Scripts and answers for employees and managers to explain the benefit clearly. | HR, Management |
+---
 
+## 🧪 Early Adopter Program
+We are currently in active discussions with small, medium, and large organizations to refine the "Golden Runway" framework for real-world application.
 
+**Why Join as a Pilot Partner?**
+* **Shape the Standard:** Your feedback will directly influence the final open-source v1.0 release.
+* **Implementation Support:** We provide hands-on guidance to help your HR and Legal teams adapt these templates.
+* **Leadership Status:** Be recognized as a pioneer in ethical offboarding and employee psychological safety.
+
+Interested in piloting this? email **theauraimpact@gmail.com**.
+
+---
 ## 🚀 Key Concepts
 
 ### 1. The "Recruiting Warranty"
@@ -41,12 +55,14 @@ The plan aligns incentives. If retention is high and the Trust becomes overfunde
 
 ## 🤝 Contributing
 We believe the best standards are built collectively.
-* **Found a loophole?** Open an Issue.
-* **Have a better definition for "Gross Misconduct"?** Submit a Pull Request.
+* **Found a loophole?** Email to theauraimpact@gmail.com
+* **Have a better definition for "Gross Misconduct"?** Email to theauraimpact@gmail.com
 * **Want to discuss?** Join the conversation on our social channels.
 
 ## 🌐 Connect & Learn
-
+* **YouTube:** [The Aura Impact Channel](youtube.com/@TheAuraImpact) – *Deep dives and explainer videos.*
+* **LinkedIn:** [The Aura Impact Page](linkedin.com/company/theauraimpact) – *Corporate announcements and networking.*
+* **Instagram:** [The Aura Impact](instagram.com/theauraimpact) – *Awareness and community.*
 
 ---
 
