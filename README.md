@@ -67,7 +67,7 @@ The plan aligns incentives. If retention is high and the Trust becomes overfunde
 ## 🛠️ How to Use (Implementation)
 
 1. **Fork or Download:** Clone this repository to review the drafts.
-2. **Select Your Model:** Use the *Decision Matrix* in the **[Implementation Guide](./pdf/Implementation_Guide_503.pdf)** to choose between Model A (VEBA), Model B (General Assets), Model C (Fully Insured), or **Model D (Captive Insurance)**.
+2. **Select Your Model:** Use the *Decision Matrix* in the **[Implementation Guide](./pdf/Implementation_Guide_503.pdf)** to choose between Model A (VEBA), Model B (General Assets), Model C (Fully Insured), or Model D (Captive Insurance).
 3. **Customize:** Edit the `[Bracketed Text]` in the SPD to match your Company Name and specific jurisdiction.
 4. **Consult Counsel:** **CRITICAL.** These documents are templates. You must have them reviewed by ERISA counsel or a qualified Benefits Attorney before adoption.
 
