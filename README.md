@@ -16,10 +16,14 @@ This repository contains the legal, financial, and administrative templates requ
 ## 📂 Repository Contents
 
 | Document | Description | Target Audience |
-| :--- | :--- | :--- |
-| **[`SPD (Plan #501)`](./pdf/SPD_501.pdf)** | **Summary Plan Description**: The core "contract" detailing the benefit, eligibility, and "Gross Misconduct" protections. | Employees, Legal |
-| **[`Implementation Guide (#503)`](./pdf/Implementation_Guide_503.pdf)** | **Implementation Guide**: A guide to funding models (VEBA Trust, Captive, etc.), tax implications, and the decision matrix. | CFOs, HR Leaders |
-| **[`Employee FAQ (#502)`](./pdf/FAQ_502.pdf)** | **FAQ (The "Translation Layer")**: Scripts and answers for employees and managers to explain the benefit clearly. | HR, Management |
+| :--- | :--- | :--- |  
+
+| **[`SPD (Plan #501)`](./pdf/SPD_501.pdf)** | **Summary Plan Description**: The core "contract" detailing the benefit, eligibility, and "Gross Misconduct" protections. | Employees, Legal |   
+
+| **[`Implementation Guide (#503)`](./pdf/Implementation_Guide_503.pdf)** | **Implementation Guide**: A guide to funding models (VEBA Trust, Captive, etc.), tax implications, and the decision matrix. | CFOs, HR Leaders |   
+
+| **[`Employee FAQ (#502)`](./pdf/FAQ_502.pdf)** | **FAQ (The "Translation Layer")**: Scripts and answers for employees and managers to explain the benefit clearly. | HR, Management |   
+
 ---
 
 ## 🧪 Early Adopter Program
@@ -59,8 +63,8 @@ The plan aligns incentives. If retention is high and the Trust becomes overfunde
 
 ## 🤝 Contributing
 We believe the best standards are built collectively.
-* **Found a loophole?** Email to theauraimpact@gmail.com
-* **Have a better definition for "Gross Misconduct"?** Send email to theauraimpact@gmail.com
+* **Found a loophole?** end email to **theauraimpact@gmail.com**
+* **Have a better definition for "Gross Misconduct"?** end email to **theauraimpact@gmail.com**
 * **Want to discuss?** Join the conversation on our social channels.
 
 ## 🌐 Connect & Learn
