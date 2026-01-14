@@ -16,13 +16,10 @@ This repository contains the legal, financial, and administrative templates requ
 ## 📂 Repository Contents
 
 | Document | Description | Target Audience |
-| :--- | :--- | :--- |   
-
-| **[`DRAFT SPD - The Golden Runway Benefit Plan (#501)`](./pdf/DRAFT SPD - The Golden Runway Benefit Plan (#501).pdf)** | **Summary Plan Description (SPD)**: The core "contract" detailing the benefit, eligibility, and "Gross Misconduct" protections. | Employees, Legal |   
-
-| **[`DRAFT Golden Runway Implementation Guide (#503)`](./pdf/DRAFT Golden Runway Implementation Guide (#503).pdf)** | **Implementation Guide**: A guide to funding models (VEBA Trust, Captive, etc.), tax implications, and the decision matrix. | CFOs, HR Leaders |      
-
-| **[`DRAFT FAQ - Golden Runway Employee Guide (#502)`](./pdf/DRAFT FAQ - Golden Runway Employee Guide (#502).pdf)** | **FAQ (The "Translation Layer")**: Scripts and answers for employees and managers to explain the benefit clearly. | HR, Management, Employees |
+| :--- | :--- | :--- |
+| **[`SPD (Plan #501)`](./pdf/SPD_501.pdf)** | **Summary Plan Description**: The core "contract" detailing the benefit, eligibility, and "Gross Misconduct" protections. | Employees, Legal |
+| **[`Implementation Guide (#503)`](./pdf/Implementation_Guide_503.pdf)** | **Implementation Guide**: A guide to funding models (VEBA Trust, Captive, etc.), tax implications, and the decision matrix. | CFOs, HR Leaders |
+| **[`Employee FAQ (#502)`](./pdf/FAQ_502.pdf)** | **FAQ (The "Translation Layer")**: Scripts and answers for employees and managers to explain the benefit clearly. | HR, Management |
 ---
 
 ## 🧪 Early Adopter Program
