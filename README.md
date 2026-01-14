@@ -20,7 +20,7 @@ This repository contains the legal, financial, and administrative templates requ
 
 | **[`DRAFT SPD - The Golden Runway Benefit Plan (#501)`](./pdf/DRAFT SPD - The Golden Runway Benefit Plan (#501).pdf)** | **Summary Plan Description (SPD)**: The core "contract" detailing the benefit, eligibility, and "Gross Misconduct" protections. | Employees, Legal |   
 
-| **[`DRAFT Golden Runway Implementation Guide (#503)`](./pdf/DRAFT Golden Runway Implementation Guide (#503).pdf)** | **Implementation Guide**: A guide to funding models (VEBA Trust, Captive, etc.), tax implications, and the decision matrix. | CFOs, HR Leaders |    
+| **[`DRAFT Golden Runway Implementation Guide (#503)`](./pdf/DRAFT Golden Runway Implementation Guide (#503).pdf)** | **Implementation Guide**: A guide to funding models (VEBA Trust, Captive, etc.), tax implications, and the decision matrix. | CFOs, HR Leaders |      
 
 | **[`DRAFT FAQ - Golden Runway Employee Guide (#502)`](./pdf/DRAFT FAQ - Golden Runway Employee Guide (#502).pdf)** | **FAQ (The "Translation Layer")**: Scripts and answers for employees and managers to explain the benefit clearly. | HR, Management, Employees |
 ---
@@ -33,7 +33,7 @@ We are currently in active discussions with small, medium, and large organizatio
 * **Implementation Support:** We provide hands-on guidance to help your HR and Legal teams adapt these templates.
 * **Leadership Status:** Be recognized as a pioneer in ethical offboarding and employee psychological safety.
 
-Interested in piloting this? email **theauraimpact@gmail.com**.
+Interested in piloting this? send email to **theauraimpact@gmail.com**.
 
 ---
 ## 🚀 Key Concepts
@@ -47,8 +47,8 @@ The framework recommends funding via a **Voluntary Employees' Beneficiary Associ
 * **Safety:** Assets in the Trust are protected from the Company's creditors. If the company goes bankrupt, the severance money is safe.
 > **🌍 International Note:**
 > The Golden Runway framework is designed to scale across borders. While the specific funding vehicle changes by jurisdiction, the core promise (pre-funded security) remains constant.
-> While "VEBA" is a specific US tax term, **Model A (Trust-Based Funding)** is a globally valid strategy.
-> *For details on adapting this framework outside the US, please email theauraimpact@gmail.com
+> While "VEBA" is a specific US tax term, **Model A (Trust-Based Funding)** is a globally valid strategy.  
+> *For details on adapting this framework outside the US, Send email to theauraimpact@gmail.com
 
 ### 3. The "Contribution Holiday"
 The plan aligns incentives. If retention is high and the Trust becomes overfunded (e.g., >125%), the Company gets a "premium holiday," effectively rewarding the organization for keeping its people.
@@ -63,7 +63,7 @@ The plan aligns incentives. If retention is high and the Trust becomes overfunde
 ## 🤝 Contributing
 We believe the best standards are built collectively.
 * **Found a loophole?** Email to theauraimpact@gmail.com
-* **Have a better definition for "Gross Misconduct"?** Email to theauraimpact@gmail.com
+* **Have a better definition for "Gross Misconduct"?** Send email to theauraimpact@gmail.com
 * **Want to discuss?** Join the conversation on our social channels.
 
 ## 🌐 Connect & Learn
