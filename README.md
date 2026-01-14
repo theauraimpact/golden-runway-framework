@@ -12,6 +12,7 @@ Layoffs are broken. The standard "Severance Package" (a lump sum payment and a d
 **The Golden Runway** is a proposed benefit framework designed to replace standard severance with active, long-term financial and career support. It operates on a simple premise: **If we hire you, we back you.**
 
 ### ⚡ The Shift
+
 | The Old Way (Standard Severance) | The New Way (Golden Runway) |
 | :--- | :--- |
 | ❌ **Lump Sum Cash** (Taxed heavily) | ✅ **Salary Continuation** (Bi-weekly paycheck) |
@@ -27,8 +28,6 @@ Layoffs are broken. The standard "Severance Package" (a lump sum payment and a d
 | **[`SPD (Plan #501)`](./pdf/SPD_501.pdf)** | **Summary Plan Description**: The core "contract" detailing the benefit, eligibility, and "Gross Misconduct" protections. | Employees, Legal |
 | **[`Implementation Guide (#503)`](./pdf/Implementation_Guide_503.pdf)** | **Implementation Guide**: A guide to funding models (VEBA Trust, Captive, etc.), tax implications, and the decision matrix. | CFOs, HR Leaders |
 | **[`Employee FAQ (#502)`](./pdf/FAQ_502.pdf)** | **FAQ (The "Translation Layer")**: Scripts and answers for employees and managers to explain the benefit clearly. | HR, Management |
-
-*(Note: Ensure your PDF files are inside a folder named `pdf` and match these filenames exactly.)*
 
 ---
 
