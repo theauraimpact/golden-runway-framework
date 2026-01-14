@@ -67,7 +67,7 @@ The plan aligns incentives. If retention is high and the Trust becomes overfunde
 ## 🛠️ How to Use (Implementation)
 
 1. **Fork or Download:** Clone this repository to review the drafts.
-2. **Select Your Model:** Use the *Decision Matrix* in the **[Implementation Guide](./pdf/Implementation_Guide_503.pdf)** to choose between Model A (VEBA), Model B (General Assets), or Model C (Fully Insured).
+2. **Select Your Model:** Use the *Decision Matrix* in the **[Implementation Guide](./pdf/Implementation_Guide_503.pdf)** to choose between Model A (VEBA), Model B (General Assets), Model C (Fully Insured), or **Model D (Captive Insurance)**.
 3. **Customize:** Edit the `[Bracketed Text]` in the SPD to match your Company Name and specific jurisdiction.
 4. **Consult Counsel:** **CRITICAL.** These documents are templates. You must have them reviewed by ERISA counsel or a qualified Benefits Attorney before adoption.
 
@@ -76,15 +76,4 @@ The plan aligns incentives. If retention is high and the Trust becomes overfunde
 ## 🤝 Contributing
 We believe the best standards are built collectively.
 * **Found a loophole?** Email **[theauraimpact@gmail.com](mailto:theauraimpact@gmail.com)**
-* **Have a better definition for "Gross Misconduct"?** Email **[theauraimpact@gmail.com](mailto:theauraimpact@gmail.com)**
-* **Want to discuss?** Join the conversation on our social channels.
-
-## 🌐 Connect & Learn
-* **YouTube:** [The Aura Impact Channel](https://www.youtube.com/@TheAuraImpact) – *Deep dives and explainer videos.*
-* **LinkedIn:** [The Aura Impact Page](https://www.linkedin.com/company/theauraimpact) – *Corporate announcements and networking.*
-* **Instagram:** [The Aura Impact](https://www.instagram.com/theauraimpact) – *Awareness and community.*
-
----
-
-## ⚠️ Disclaimer
-*This project is a conceptual draft for discussion and development purposes only. The documents contained herein do not constitute legal, tax, or financial advice. Implementation of a Supplemental Unemployment Benefit Plan requires strict adherence to ERISA, IRS regulations, and local labor laws. Users should consult with their own legal counsel and tax advisors before implementing any part of this framework.*
+* **Have a better definition for "Gross Misconduct"?** Email **[theauraimpact@gmail.com](mailto:theauraimpact
