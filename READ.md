@@ -17,9 +17,7 @@ This repository contains the legal, financial, and administrative templates requ
 
 | Document | Description | Target Audience |
 | :--- | :--- | :--- |
-| **[`01_SPD.md`](./01_SPD.md)** | **Summary Plan Description (SPD)**: The core "contract" detailing the benefit, eligibility, and "Gross Misconduct" protections. | Employees, Legal |
-| **[`02_Implementation_Guide.md`](./02_Implementation_Guide.md)** | **Implementation Guide**: A guide to funding models (VEBA Trust, Captive, etc.), tax implications, and the decision matrix. | CFOs, HR Leaders |
-| **[`03_FAQ.md`](./03_FAQ.md)** | **FAQ (The "Translation Layer")**: Scripts and answers for employees and managers to explain the benefit clearly. | HR, Management |
+
 
 ## 🚀 Key Concepts
 
@@ -48,9 +46,7 @@ We believe the best standards are built collectively.
 * **Want to discuss?** Join the conversation on our social channels.
 
 ## 🌐 Connect & Learn
-* **YouTube:** [The Aura Impact Channel](YOUR_YOUTUBE_LINK_HERE) – *Deep dives and explainer videos.*
-* **LinkedIn:** [The Aura Impact Page](YOUR_LINKEDIN_LINK_HERE) – *Corporate announcements and networking.*
-* **Instagram:** [The Aura Impact](YOUR_INSTAGRAM_LINK_HERE) – *Awareness and community.*
+
 
 ---
 
