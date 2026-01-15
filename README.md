@@ -1,6 +1,6 @@
 # ✈️ The Golden Runway Framework
 
-![Status](https://img.shields.io/badge/Status-Draft_v1.0-orange) ![License](https://img.shields.io/badge/License-Open_Source-blue)
+![Status](https://img.shields.io/badge/Status-Draft_v1.1-orange) ![License](https://img.shields.io/badge/License-Open_Source-blue)
 
 **The open-source standard for implementing a Supplemental Unemployment Benefit (SUB) plan, replacing layoffs with a Golden Runway.**
 
@@ -26,6 +26,7 @@ Layoffs are broken. The standard "Severance Package" (a lump sum payment and a d
 | Document | Description | Target Audience |
 | :--- | :--- | :--- |
 | **[`SPD (Plan #501)`](./pdf/SPD_501.pdf)** | **Summary Plan Description**: The core "contract" detailing the benefit, eligibility, and "Gross Misconduct" protections. | Legal, Employees |
+| **[`Governance (#504)`](./pdf/Governance_Framework_504.docx)** | **Risk & Control Framework**: The "Defense Manual." Detailed justification for the 24-month cap, fraud prevention controls (The "State Peg"), and legal liability shielding. | CFOs, Risk Officers |
 | **[`Implementation Guide (#503)`](./pdf/Implementation_Guide_503.pdf)** | **Implementation Guide**: A guide to funding models (VEBA Trust, Captive, etc.), tax implications, and the decision matrix. | CFOs, General Counsel |
 | **[`Employee FAQ (#502)`](./pdf/FAQ_502.pdf)** | **FAQ (The "Translation Layer")**: Answers to common questions regarding eligibility, payments, and taxes. | All Employees |
 
@@ -48,10 +49,15 @@ Interested in piloting this? Please email **[theauraimpact@gmail.com](mailto:the
 ### 1. The "Recruiting Warranty"
 Coverage begins on **Day 1**. There is no vesting period. This signals to talent that the company is confident in its hiring decisions.
 
-### 2. The VEBA Trust Model
+### 2. The Liability Shield (Governance)
+The framework isn't just a benefit; it's a risk management tool.
+* **Litigation Mitigation:** By offering extended runway, the plan acts as a pre-negotiated settlement against "front pay" lawsuits.
+* **Fraud Prevention:** The **"State Peg"** mechanism ties eligibility to state unemployment audits, ensuring participants are actively looking for work.
+
+### 3. The VEBA Trust Model
 The framework recommends funding via a **Voluntary Employees' Beneficiary Association (VEBA)**.
 * **Tax Efficiency:** Contributions are often tax-deductible; investment growth is tax-exempt.
-* **Safety:** Assets in the Trust are protected from the Company's creditors. If the company goes bankrupt, the severance money is safe.
+* **Safety:** Assets in the Trust are protected from the Company's creditors.
 
 > **🌍 International Note:**
 > The Golden Runway framework is designed to scale across borders. While the specific funding vehicle changes by jurisdiction, the core promise (pre-funded security) remains constant.
@@ -59,7 +65,7 @@ The framework recommends funding via a **Voluntary Employees' Beneficiary Associ
 > While "VEBA" is a specific US tax term, **Model A (Trust-Based Funding)** is a globally valid strategy.
 > *For details on adapting this framework outside the US, please email [theauraimpact@gmail.com](mailto:theauraimpact@gmail.com).*
 
-### 3. The "Contribution Holiday"
+### 4. The "Contribution Holiday"
 The plan aligns incentives. If retention is high and the Trust becomes overfunded (e.g., >125%), the Company gets a "premium holiday," effectively rewarding the organization for keeping its people.
 
 ---
@@ -67,9 +73,10 @@ The plan aligns incentives. If retention is high and the Trust becomes overfunde
 ## 🛠️ How to Use (Implementation)
 
 1. **Fork or Download:** Clone this repository to review the drafts.
-2. **Select Your Model:** Use the *Decision Matrix* in the **[Implementation Guide](./pdf/Implementation_Guide_503.pdf)** to choose between Model A (VEBA), Model B (General Assets), Model C (Fully Insured), or Model D (Captive Insurance).
-3. **Customize:** Edit the `[Bracketed Text]` in the SPD to match your Company Name and specific jurisdiction.
-4. **Consult Counsel:** **CRITICAL.** These documents are templates. You must have them reviewed by ERISA counsel or a qualified Benefits Attorney before adoption.
+2. **Review Governance:** Start with the **[Governance Framework (#504)](./pdf/Governance_Framework_504.docx)** to understand the financial controls and risk mitigation.
+3. **Select Your Model:** Use the *Decision Matrix* in the **[Implementation Guide (#503)](./pdf/Implementation_Guide_503.pdf)** to choose between Model A (VEBA), Model B (General Assets), Model C (Fully Insured), or Model D (Captive Insurance).
+4. **Customize:** Edit the `[Bracketed Text]` in the SPD to match your Company Name and specific jurisdiction.
+5. **Consult Counsel:** **CRITICAL.** These documents are templates. You must have them reviewed by ERISA counsel or a qualified Benefits Attorney before adoption.
 
 ---
 
