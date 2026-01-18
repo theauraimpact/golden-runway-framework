@@ -94,4 +94,4 @@ We believe the best standards are built collectively.
 ---
 
 ## ⚠️ Disclaimer
-*This project is a conceptual draft for discussion and development purposes only. The documents contained herein do not constitute legal, tax, or financial advice. Implementation of a Supplemental Unemployment Benefit Plan requires strict adherence to ERISA, IRS regulations, and local labor laws. Users should consult with their own legal counsel and tax advisors before implementing any part of this framework.*
+*This framework is a conceptual draft for discussion and development purposes only. The documents contained herein do not constitute legal, tax, or financial advice. Implementation of a Supplemental Unemployment Benefit Plan requires strict adherence to ERISA, IRS regulations, and local labor laws. Users should consult with their own legal counsel and tax advisors before implementing any part of this framework.*
