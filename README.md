@@ -20,6 +20,7 @@ Layoffs are broken. The standard "Severance Package" (a lump sum payment and a d
 | ❌ **Unfunded Liability** (Hits P&L instantly) | ✅ **Pre-Funded Trust** (Tax-advantaged asset) |
 
 ---
+
 ### 📈 The Business ROI (Employer Strategic Advantage)
 
 | Standard Corporate Risk | The Aura Impact Strategy (Golden Runway) |
@@ -27,7 +28,9 @@ Layoffs are broken. The standard "Severance Package" (a lump sum payment and a d
 | ⚠️ **Innovation Stagnation**: Employees "play it safe" and avoid high-reward risks to protect their job security. | 🚀 **Innovation Warranty**: Guaranteed psychological safety allows your best talent to take the bold risks required for exponential growth. |
 | ⚠️ **Talent Attrition**: High-performers are the first to leave during market volatility in search of "safer" competitors. | 🧲 **Talent Magnet**: Attracts elite, mission-driven performers who value an organization that backs its hiring with a social safety net. |
 | ⚠️ **Total Business Collapse**: Sudden cash-flow failure or market shifts lead to immediate shutdown and loss of all human capital. | 🛡️ **Company Recovery Window**: The pre-funded Trust acts as a **business survival fund**, providing a 24-month window to pivot or recover while salaries continue to be paid. |
+
 ---
+
 ## 📂 Repository Contents
 
 | Document | Description | Target Audience |
@@ -80,7 +83,7 @@ The plan aligns incentives. If retention is high and the Trust becomes overfunde
 ## 🛠️ How to Use (Implementation)
 
 1. **Fork or Download:** Clone this repository to review the drafts.
-2. **Review Governance:** Start with the **[Governance Framework (#504)](./pdf/Governance_Framework_504.docx)** to understand the financial controls and risk mitigation.
+2. **Review Governance:** Start with the **[Governance Framework (#504)](./pdf/Governance_Framework_504.pdf)** to understand the financial controls and risk mitigation.
 3. **Select Your Model:** Use the *Decision Matrix* in the **[Implementation Guide (#503)](./pdf/Implementation_Guide_503.pdf)** to choose between Model A (VEBA), Model B (General Assets), Model C (Fully Insured), or Model D (Captive Insurance).
 4. **Customize:** Edit the `[Bracketed Text]` in the SPD to match your Company Name and specific jurisdiction.
 5. **Consult Counsel:** **CRITICAL.** These documents are templates. You must have them reviewed by ERISA counsel or a qualified Benefits Attorney before adoption.
