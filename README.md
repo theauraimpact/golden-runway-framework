@@ -61,7 +61,7 @@ Coverage begins on **Day 1**. There is no vesting period. This signals to talent
 
 ### 2. The Liability Shield (Governance)
 The framework isn't just a benefit; it's a risk management tool.
-* **Litigation Mitigation:** By offering extended runway, the plan acts as a pre-negotiated settlement against "front pay" lawsuits.
+* **Litigation Avoidance:** Traditional layoffs often trigger "front pay" or "wrongful termination" claims due to the immediate financial trauma and loss of livelihood. By providing a 24-month secure runway, the framework ensures the individual has the time and resources to secure their next role. When an employee transitions successfully to a new career without financial distress, the primary economic catalyst for legal conflict is removed.
 * **Fraud Prevention:** The **"State Peg"** mechanism ties eligibility to state unemployment audits, ensuring participants are actively looking for work.
 
 ### 3. The VEBA Trust Model
