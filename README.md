@@ -1,6 +1,6 @@
 # ✈️ The Golden Runway Framework
 
-![Status](https://img.shields.io/badge/Status-Draft_v1.1-orange) ![License](https://img.shields.io/badge/License-Open_Source-blue)
+![Status](https://img.shields.io/badge/Status-Draft_v1.2-orange) ![License](https://img.shields.io/badge/License-Open_Source-blue)
 
 **The open-source standard for implementing a Supplemental Unemployment Benefit (SUB) plan, replacing layoffs with a Golden Runway.**
 
@@ -20,7 +20,14 @@ Layoffs are broken. The standard "Severance Package" (a lump sum payment and a d
 | ❌ **Unfunded Liability** (Hits P&L instantly) | ✅ **Pre-Funded Trust** (Tax-advantaged asset) |
 
 ---
+### 📈 The Business ROI (Employer Strategic Advantage)
 
+| Standard Corporate Risk | The Aura Impact Strategy (Golden Runway) |
+| :--- | :--- |
+| ⚠️ **Innovation Stagnation**: Employees "play it safe" and avoid high-reward risks to protect their job security. | 🚀 **Innovation Warranty**: Guaranteed psychological safety allows your best talent to take the bold risks required for exponential growth. |
+| ⚠️ **Talent Attrition**: High-performers are the first to leave during market volatility in search of "safer" competitors. | 🧲 **Talent Magnet**: Attracts elite, mission-driven performers who value an organization that backs its hiring with a social safety net. |
+| ⚠️ **Total Business Collapse**: Sudden cash-flow failure or market shifts lead to immediate shutdown and loss of all human capital. | 🛡️ **Company Recovery Window**: The pre-funded Trust acts as a **business survival fund**, providing a 24-month window to pivot or recover while salaries continue to be paid. |
+---
 ## 📂 Repository Contents
 
 | Document | Description | Target Audience |
@@ -36,7 +43,7 @@ Layoffs are broken. The standard "Severance Package" (a lump sum payment and a d
 We are currently in active discussions with small, medium, and large organizations to refine the "Golden Runway" framework for real-world application.
 
 **Why Join as a Pilot Partner?**
-* **Shape the Standard:** Your feedback will directly influence the final open-source v1.0 release.
+* **Shape the Standard:** Your feedback will directly influence the final open-source release.
 * **Implementation Support:** We provide hands-on guidance to help your HR and Legal teams adapt these templates.
 * **Leadership Status:** Be recognized as a pioneer in ethical offboarding and employee psychological safety.
 
