@@ -50,7 +50,7 @@ We are currently in active discussions with small, medium, and large organizatio
 * **Implementation Support:** We provide hands-on guidance to help your HR and Legal teams adapt these templates.
 * **Leadership Status:** Be recognized as a pioneer in ethical offboarding and employee psychological safety.
 
-Interested in piloting this? Please email **[theauraimpact@gmail.com](mailto:theauraimpact@gmail.com)**.
+Interested in piloting this? Please email **[collaborate@theauraimpact.io](mailto:collaborate@theauraimpact.io)**.
 
 ---
 
@@ -73,7 +73,7 @@ The framework recommends funding via a **Voluntary Employees' Beneficiary Associ
 > The Golden Runway framework is designed to scale across borders. While the specific funding vehicle changes by jurisdiction, the core promise (pre-funded security) remains constant.
 >
 > While "VEBA" is a specific US tax term, **Model A (Trust-Based Funding)** is a globally valid strategy.
-> *For details on adapting this framework outside the US, please email [theauraimpact@gmail.com](mailto:theauraimpact@gmail.com).*
+> *For details on adapting this framework outside the US, please email [collaborate@theauraimpact.io](mailto:collaborate@theauraimpact.io).*
 
 ### 4. The "Contribution Holiday"
 The plan aligns incentives. If retention is high and the Trust becomes overfunded (e.g., >125%), the Company gets a "premium holiday," effectively rewarding the organization for keeping its people.
@@ -92,8 +92,8 @@ The plan aligns incentives. If retention is high and the Trust becomes overfunde
 
 ## 🤝 Contributing
 We believe the best standards are built collectively.
-* **Found a loophole?** Email **[theauraimpact@gmail.com](mailto:theauraimpact@gmail.com)**
-* **Have a better definition for "Gross Misconduct"?** Email **[theauraimpact@gmail.com](mailto:theauraimpact@gmail.com)**
+* **Found a loophole?** Email **[collaborate@theauraimpact.io](mailto:collaborate@theauraimpact.io)**
+* **Have a better definition for "Gross Misconduct"?** Email **[collaborate@theauraimpact.io](mailto:collaborate@theauraimpact.io)**
 * **Want to discuss?** Join the conversation on our social channels.
 
 ## 🌐 Connect & Learn
