@@ -1,4 +1,4 @@
-# ✈️ The Golden Runway Framework
+# <img src="gr.png" width="80" height="80" style="vertical-align: middle; margin-right: 20px;"> Golden Runway
 
 ![Status](https://img.shields.io/badge/Status-Draft_v1.2-orange) ![License](https://img.shields.io/badge/License-Open_Source-blue)
 
