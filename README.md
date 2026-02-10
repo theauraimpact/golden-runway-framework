@@ -5,8 +5,6 @@
     Status: Active 🟢
   </span>
   
----
-
   <span style="border: 1px solid #D4AF37; color: #D4AF37; padding: 1px 10px; border-radius: 9999px; font-size: 0.75rem; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;">
     Version: 1.2 ⭐
   </span>
@@ -15,6 +13,7 @@
     License: Open Source 📜
   </span>
 </div>
+
 
 **The open-source standard for implementing a Supplemental Unemployment Benefit (SUB) plan, replacing layoffs with a Golden Runway.**
 
