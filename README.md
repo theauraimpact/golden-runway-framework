@@ -1,7 +1,5 @@
 # <img src="gr.png" width="80" height="80" style="vertical-align: middle; margin-right: 20px;"> Golden Runway
-
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![Version](https://img.shields.io/badge/Version-1.2-D4AF37) ![License](https://img.shields.io/badge/License-Open_Source-blue)
-
 **The open-source standard for implementing a Supplemental Unemployment Benefit (SUB) plan, replacing layoffs with a Golden Runway.**
 
 ---
