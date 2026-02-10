@@ -5,6 +5,7 @@
     Status: Active 🟢
   </span>
   
+---
 
   <span style="border: 1px solid #D4AF37; color: #D4AF37; padding: 1px 10px; border-radius: 9999px; font-size: 0.75rem; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;">
     Version: 1.2 ⭐
