@@ -34,7 +34,7 @@ Layoffs are broken. The standard "Severance Package" (a lump sum payment and a d
 
 | Document | Description | Target Audience |
 | :--- | :--- | :--- |
-| **[`SPD (Plan #501)`](./pdf/SPD_501.pdf)** | **Summary Plan Description**: The core "contract" detailing the benefit, eligibility, and "Gross Misconduct" protections. | Legal, Employees |
+| **[`SPD (#501)`](./pdf/SPD_501.pdf)** | **Summary Plan Description**: The core "contract" detailing the benefit, eligibility, and "Gross Misconduct" protections. | Legal, Employees |
 | **[`Governance (#504)`](./pdf/Governance_Framework_504.pdf)** | **Risk & Control Framework**: The "Defense Manual." Detailed justification for the 24-month cap, fraud prevention controls (The "State Peg"), and legal liability shielding. | CFOs, Risk Officers |
 | **[`Implementation Guide (#503)`](./pdf/Implementation_Guide_503.pdf)** | **Implementation Guide**: A guide to funding models (VEBA Trust, Captive, etc.), tax implications, and the decision matrix. | CFOs, General Counsel |
 | **[`Employee FAQ (#502)`](./pdf/FAQ_502.pdf)** | **FAQ (The "Translation Layer")**: Answers to common questions regarding eligibility, payments, and taxes. | All Employees |
