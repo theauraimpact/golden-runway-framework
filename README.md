@@ -2,6 +2,20 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![Version](https://img.shields.io/badge/Version-1.2-D4AF37) ![License](https://img.shields.io/badge/License-Open_Source-blue)
 
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 1rem;">
+  <span style="border: 1.5px solid #4c1; color: #4c1; padding: 2px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; font-family: sans-serif;">
+    🟢 Status: Active
+  </span>
+
+  <span style="border: 1.5px solid #D4AF37; color: #D4AF37; padding: 2px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; font-family: sans-serif;">
+    ⭐ Version: 1.2
+  </span>
+
+  <span style="border: 1.5px solid #007bff; color: #007bff; padding: 2px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; font-family: sans-serif;">
+    📜 License: Open Source
+  </span>
+</div>
+
 **The open-source standard for implementing a Supplemental Unemployment Benefit (SUB) plan, replacing layoffs with a Golden Runway.**
 
 ---
