@@ -1,5 +1,4 @@
 # <img src="gr.png" width="80" height="80" style="vertical-align: middle; margin-right: 20px;"> Golden Runway
-
 <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 1.5rem;">
   <span style="border: 1px solid #4c1; color: #4c1; padding: 1px 10px; border-radius: 9999px; font-size: 0.75rem; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;">
     Status: Active 🟢
@@ -13,6 +12,8 @@
     License: Open Source 📜
   </span>
 </div>
+
+
 
 
 **The open-source standard for implementing a Supplemental Unemployment Benefit (SUB) plan, replacing layoffs with a Golden Runway.**
